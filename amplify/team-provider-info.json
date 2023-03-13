@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-anadafootapp-dev-211642-authRole",
+      "UnauthRoleArn": "arn:aws:iam::511958088555:role/amplify-anadafootapp-dev-211642-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::511958088555:role/amplify-anadafootapp-dev-211642-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-anadafootapp-dev-211642-deployment",
+      "UnauthRoleName": "amplify-anadafootapp-dev-211642-unauthRole",
+      "StackName": "amplify-anadafootapp-dev-211642",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:511958088555:stack/amplify-anadafootapp-dev-211642/fb7d1db0-bef1-11ed-ad77-02247da7b16a",
+      "AmplifyAppId": "dos2vluzx2c2u"
+    },
+    "categories": {
+      "auth": {
+        "anadafootapp62f91d9c": {}
+      }
+    }
+  }
+}
